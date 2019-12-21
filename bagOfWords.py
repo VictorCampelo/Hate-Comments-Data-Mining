@@ -15,7 +15,7 @@ def main():
 	inf = []
 	
 
-	wrds 			=open("palavras2.txt","r")
+	wrds 			=open("words_dictionary.txt","r")
 	stopwords 		=open("stopwords.txt","r")
 	badL 			=open("listBlock.txt","r")
 	ref_arquivo 	=open("hate.txt","r")
